@@ -1,0 +1,15 @@
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\bin\Debug\net7.0\first.exe
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\bin\Debug\net7.0\first.deps.json
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\bin\Debug\net7.0\first.runtimeconfig.json
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\bin\Debug\net7.0\first.dll
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\bin\Debug\net7.0\first.pdb
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\obj\Debug\net7.0\first.csproj.AssemblyReference.cache
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\obj\Debug\net7.0\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\obj\Debug\net7.0\first.AssemblyInfoInputs.cache
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\obj\Debug\net7.0\first.AssemblyInfo.cs
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\obj\Debug\net7.0\first.csproj.CoreCompileInputs.cache
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\obj\Debug\net7.0\first.dll
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\obj\Debug\net7.0\refint\first.dll
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\obj\Debug\net7.0\first.pdb
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\obj\Debug\net7.0\first.genruntimeconfig.cache
+C:\Users\zimko\OneDrive\Рабочий стол\MAin\obj\Debug\net7.0\ref\first.dll
